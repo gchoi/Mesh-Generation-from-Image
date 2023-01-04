@@ -1,4 +1,4 @@
-# Generate Meshes from a Single Image
+# Generate 3D Meshes from a Single Image
 
 
 ## Resources

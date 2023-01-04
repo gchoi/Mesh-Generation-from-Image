@@ -1,0 +1,10 @@
+model:
+    feature_extractor: "vinvino02/glpn-nyu"
+    depth_estimator: "vinvino02/glpn-nyu"
+image: "./input-images/bedroom.jpg"
+output: "./outputs/bedroom.obj"
+mesh_depth: 10
+visualize:
+    depth_estimator: True
+    point_cloud: False
+    mesh_generation: True
